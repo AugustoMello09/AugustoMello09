@@ -9,9 +9,9 @@
 ### Atualmente cursando Análise e Desenvolvimento de Sistemas
 
 <div>
-  <a href="https://github.com/JAMC001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JAMC001&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAMC001&layout=compact&langs_count=16&theme=codeSTACKr"/>
+  <a href="https://github.com/AugustoMello09">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoMello09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMello09&layout=compact&langs_count=16&theme=codeSTACKr"/>
 </div>
   
 ##
