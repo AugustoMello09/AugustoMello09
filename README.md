@@ -4,8 +4,7 @@
 
 😀 Pronomes: Ele/Dele
 
-
-### Atualmente cursando Análise e Desenvolvimento de Sistemas
+### Atualmente cursando Análise e Desenvolvimento de Sistemas e aprendendo a desenvolver Back-end
 
 <div>
   <a href="https://github.com/AugustoMello09">
