@@ -2,7 +2,6 @@
 
 ### Me chamo José Augusto, seja muito bem vindo(A) ao meu perfil!
 
-
 😀 Pronomes: Ele/Dele
 
 
