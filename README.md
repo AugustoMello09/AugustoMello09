@@ -2,8 +2,6 @@
 
 ### Me chamo José Augusto, seja muito bem vindo(A) ao meu perfil!
 
-😀 Pronomes: Ele/Dele
-
 - Atualmente cursando Análise e Desenvolvimento de Sistemas 
 - Foco no aprendizado para desenvolvimento Web
 
