@@ -2,8 +2,19 @@
 
 ### Me chamo José Augusto, seja muito bem vindo(A) ao meu perfil!
 
-- Atualmente cursando Análise e Desenvolvimento de Sistemas 
-- Foco no aprendizado para desenvolvimento Web
+<p>atualmente estudando para se tornar um desenvolvedor Back-End.
+
+ Cursando Análise e Desenvolvimento de Sistemas na <a href="https://oficial.unimar.br/">UNIMAR - Universidade de Marília</a>
+
+Possuo conhecimento nos seguintes campos :
+
+- Programação Orientada a Objetos
+- Java 8+
+- Spring Boot
+- Design de APIs REST
+- Bancos de Dados (SQL ou NoSQL)
+- Microsserviços em Spring Boot
+</p>
 
 
 <div>
