@@ -3,7 +3,7 @@
  </header> 
 <section>
  <header>
-   <h2>Atualmente estou nessa jornada com muita curiosidade e entusiasmo para me aprender e contribuir como desenvolvedor Full Stack.  </h2>
+   <h2>Atualmente estou nessa jornada com muita curiosidade e entusiasmo para me aprender e contribuir como desenvolvedor Full Stack 🚀  </h2>
  </header>
  <article>
    
