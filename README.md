@@ -1,5 +1,5 @@
 <header>
-<h1>Olá tudo bem ? 👋 seja muito bem vindo(A) ao meu perfil!. </h1>
+<h1>Olá tudo bem ? 👋 seja muito bem vindo(A) ao meu perfil! </h1>
  </header> 
 <section>
  <header>
