@@ -16,7 +16,7 @@
   
    <p>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://oficial.unimar.br/%22%3EUNIMAR ">Universidade de Marília</a></p>
   
-   <h3> Possuo os seguintes conhecimentos que ajuda a compor meu Beck-end 🧱 : </h3>
+   <h3> Possuo os seguintes conhecimentos que ajuda a compor meu Back-end 🧱 : </h3>
     <ul>
      <li>Programação Orientada a Objetos</li> 
      <li>Java 8+</li>
