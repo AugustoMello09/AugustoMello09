@@ -22,7 +22,7 @@
      <li>Java 8+</li>
      <li>Spring Boot</li>
      <li>Design de APIs REST</li>
-     <li>Bancos de Dados (SQL ou NoSQL)</li>
+     <li>Bancos de Dados (SQL)</li>
      <li>Micro serviços em Spring Boot</li>
      <li>Versionamento de código(Git)</li>
      <li>Teste unitários com Junit</li>
