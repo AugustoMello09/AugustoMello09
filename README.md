@@ -67,7 +67,7 @@ src= https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
 
  <h3> Entre em contato comigo através dos canais abaixo e desde já, agradeço a atenção. 🤝 </h3>
   
-  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-794a94234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href=https://www.linkedin.com/in/jos%C3%A9-augusto-mello-794a94234/target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:joseaugusto.Mello01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
