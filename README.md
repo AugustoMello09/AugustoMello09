@@ -25,7 +25,8 @@
      <li>Bancos de Dados (SQL)</li>
      <li>Micro serviços em Spring Boot</li>
      <li>Versionamento de código(Git)</li>
-     <li>Teste unitários com Junit</li>
+     <li>Testes Junit</li>
+     <li>Swagger UI</li>
     </ul>
  
   <h3>Sempre buscando novos conhecimentos, atualmente estou me conectando mais com o front-end e aprendendo as seguintes tecnologias e ferramentas 🌐 :</h3>
