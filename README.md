@@ -19,7 +19,7 @@
    <h3> Possuo os seguintes conhecimentos que ajuda a compor meu Back-end 🧱 : </h3>
     <ul>
      <li>Programação Orientada a Objetos</li> 
-     <li>Java 8+</li>
+     <li>Java </li>
      <li>Spring Boot</li>
      <li>Design de APIs REST</li>
      <li>Bancos de Dados (SQL)</li>
