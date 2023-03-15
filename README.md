@@ -23,7 +23,6 @@
      <li>Spring Boot</li>
      <li>Design de APIs REST</li>
      <li>Bancos de Dados (SQL)</li>
-     <li>Micro serviços em Spring Boot</li>
      <li>Versionamento de código(Git)</li>
      <li>Testes Junit</li>
      <li>Swagger UI</li>
