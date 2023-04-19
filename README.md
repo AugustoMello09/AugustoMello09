@@ -27,14 +27,6 @@
      <li>Testes Junit</li>
      <li>Swagger UI</li>
     </ul>
- 
-  <h3>Sempre buscando novos conhecimentos, atualmente estou me conectando mais com o front-end e aprendendo as seguintes tecnologias e ferramentas 🌐 :</h3>
-    <ul>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>Javascritp</li>
-     <li>NodeJs</li>
-    </ul>
 </article>
 
 </section>
