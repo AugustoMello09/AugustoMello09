@@ -25,6 +25,7 @@
      <li>Bancos de Dados (SQL)</li>
      <li>Versionamento de código(Git)</li>
      <li>Docker</li>
+     <li>Mensageria (Kafka/Rabbitmq)</li>
      <li>Swagger UI</li>
     </ul>
 </article>
