@@ -14,7 +14,7 @@
    &nbsp Me chamo José Augusto e tenho 19 anos, Iniciei meus estudos na programação junto a faculdade no começo do ano de 2022, comecei a mergulhar nesse mundo incrível da programação e me apaixonei, sempre em busca de novos conhecimentos e buscando cada vez mais melhorar como programador e pessoa.
    </p>
   
-   <p>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://oficial.unimar.br/%22%3EUNIMAR ">Universidade de Marília</a></p>
+   <p>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://oficial.unimar.br">Universidade de Marília</a></p>
   
    <h3> Possuo os seguintes conhecimentos que ajuda a compor meu Back-end 🧱 : </h3>
     <ul>
