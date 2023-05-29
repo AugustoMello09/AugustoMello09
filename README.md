@@ -16,8 +16,10 @@
   
    <p>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://oficial.unimar.br">Universidade de Marília</a></p>
   
-   <h3> Possuo os seguintes conhecimentos que ajuda a compor meu Back-end 🧱 : </h3>
+   <h3> Conhecimentos 🧱 : </h3>
     <ul>
+     <li>HTML</li>
+     <li>CSS</li>
      <li>Programação Orientada a Objetos</li> 
      <li>Java </li>
      <li>Spring Boot</li>
@@ -42,8 +44,10 @@
 
  <h3>Ferramentas e Tecnologias 🧱</h3>
  
+<img align="center" alt="Augusto-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg">
+  <img align="center" alt="Augusto-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
  <img align="center" alt="Augusto-Java" height="60" width="60" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg > 
-  <img align="center" alt="Augusto-SpringBoot" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg">
+ <img align="center" alt="Augusto-SpringBoot" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg">
 <img align="center" alt="Augusto-Docker" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
  <img align="center" alt="Augusto-kafka" height="100" width="100"
  src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
