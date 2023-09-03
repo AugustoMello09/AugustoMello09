@@ -20,6 +20,9 @@
     <ul>
      <li>HTML</li>
      <li>CSS</li>
+     <li>Javascript</li>
+     <li>Typescript</li>
+     <li>Angular</li>
      <li>Programação Orientada a Objetos</li> 
      <li>Java </li>
      <li>Spring Boot</li>
