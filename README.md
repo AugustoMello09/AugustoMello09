@@ -20,6 +20,7 @@
     <ul>
      <li>HTML</li>
      <li>CSS</li>
+     <li>Tailwindcss</li>
      <li>Javascript</li>
      <li>Typescript</li>
      <li>Angular</li>
@@ -30,6 +31,7 @@
      <li>Bancos de Dados (SQL)</li>
      <li>Versionamento de código(Git)</li>
      <li>Docker</li>
+     <li>Testes Unitários</li>
      <li>Mensageria (Kafka/Rabbitmq)</li>
      <li>Swagger UI</li>
     </ul>
