@@ -29,11 +29,12 @@
      <li>Spring Boot</li>
      <li>Design de APIs REST</li>
      <li>Bancos de Dados (SQL)</li>
-     <li>Versionamento de código(Git)</li>
+     <li>Versionamento de código(Git, GitHub, GitFlow)</li>
      <li>Docker</li>
      <li>Testes Unitários</li>
      <li>Mensageria (Kafka/Rabbitmq)</li>
      <li>Swagger UI</li>
+     <li>Microsservices</li>
     </ul>
 </article>
 
