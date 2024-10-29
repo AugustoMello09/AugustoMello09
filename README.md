@@ -1,86 +1,60 @@
-<header>
-<h1>Olá tudo bem ? 👋 seja muito bem vindo(A) ao meu perfil! </h1>
- </header> 
-<section>
- <header>
-   <h2>Atualmente estou nessa jornada com muita curiosidade e entusiasmo para aprender e contribuir como desenvolvedor 🚀  </h2>
- </header>
- <article>
-   
-   <header>
-      <h3>Sobre min: </h3>
-   </header>
-   <p> 
-   &nbsp Me chamo José Augusto e tenho 19 anos, Iniciei meus estudos na programação junto a faculdade no começo do ano de 2022, comecei a mergulhar nesse mundo incrível da programação e me apaixonei, sempre em busca de novos conhecimentos e buscando cada vez mais melhorar como programador e pessoa.
-   </p>
-  
-   <p>Cursando Análise e Desenvolvimento de Sistemas na <a href="https://oficial.unimar.br">Universidade de Marília</a></p>
-  
-   <h3> Conhecimentos 🧱 : </h3>
-    <ul>
-     <li>HTML</li>
-     <li>CSS</li>
-     <li>Tailwindcss</li>
-     <li>Javascript</li>
-     <li>Typescript</li>
-     <li>Angular</li>
-     <li>Programação Orientada a Objetos</li> 
-     <li>Java </li>
-     <li>Spring Boot</li>
-     <li>Design de APIs REST</li>
-     <li>Bancos de Dados (SQL)</li>
-     <li>Versionamento de código(Git, GitHub, GitFlow)</li>
-     <li>Docker</li>
-     <li>Testes Unitários</li>
-     <li>Mensageria (Kafka/Rabbitmq)</li>
-     <li>Swagger UI</li>
-     <li>Microsservices</li>
-    </ul>
-</article>
+<h2 align="left"> Olá 👋!</h2>
 
-</section>
-<div>
-  <a href="https://github.com/AugustoMello09">
+###
+
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoMello09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMello09&layout=compact&langs_count=16&theme=codeSTACKr"/>
-</div> 
+</div>
 
-<section> 
-<div align="center"><br>
+###
 
- <h3>Ferramentas e Tecnologias 🧱</h3>
- 
-<img align="center" alt="Augusto-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg">
-  <img align="center" alt="Augusto-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg">
-<img align="center" alt="Augusto-JAVASCRIP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Augusto-TYPESCRIPT" height="60" width="60" src="https://img.icons8.com/?size=512&id=nCj4PvnCO0tZ&format=png">
-<img align="center" alt="Augusto-ANGULAR" height="50" width="50" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg">
- <img align="center" alt="Augusto-Java" height="60" width="60" src=https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg > 
- <img align="center" alt="Augusto-SpringBoot" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original-wordmark.svg">
-<img align="center" alt="Augusto-Docker" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
- <img align="center" alt="Augusto-kafka" height="100" width="100"
- src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
- <img align="center" alt="Augusto-Rabbitmq" height="40" width="40"
- src="https://www.svgrepo.com/show/303576/rabbitmq-logo.svg">
- <img align="center" alt="Augusto-GitHub" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
- <img align="center" alt="Augusto-POSTGRESQL" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg">
- <img align="center" alt="Augusto-MYSQL" height="60" width="60"
-src= https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg> 
-   
-</div>  
- 
-![snake gif](https://github.com/AugustoMello09/AugustoMello09/blob/output/github-contribution-grid-snake.svg)  
- 
-</section> 
+<img align="right" height="150" src="https://i.pinimg.com/originals/38/ee/23/38ee23a0d0aecbc091854018bea571f6.gif"  />
 
-<footer> 
-<div>
+###
 
- <h3> Entre em contato comigo através dos canais abaixo e desde já, agradeço a atenção. 🤝 </h3>
-  
-  <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-mello-794a94234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- <a href="mailto:joseaugusto.Mello01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-  </div>
-</footer> 
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="30" alt="rabbitmq logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+![snake gif](https://github.com/AugustoMello09/AugustoMello09/blob/output/github-contribution-grid-snake.svg)
+
+###
