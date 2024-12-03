@@ -1,4 +1,16 @@
-<h2 align="left"> Olá 👋!</h2>
+<h1 align="left">Olá 👋!</h1>
+
+###
+
+<p align="left">Meu nome é José Augusto, seja bem vindo(a)!!</p>
+
+###
+
+<h2 align="left">Sobre min</h2>
+
+###
+
+<p align="left">Estou à procura de uma oportunidade como desenvolvedor backend onde eu possa mostrar meus conhecimentos em Java e Spring Boot. Tenho habilidades no desenvolvimento de APIs RESTful e na integração de soluções modernas com mensageria como RabbitMQ e Kafka, além de experiência em consumir API’s externas. </p>
 
 ###
 
@@ -9,14 +21,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/38/ee/23/38ee23a0d0aecbc091854018bea571f6.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/jos%C3%A9-augusto-mello-crispim-794a94234/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:joseaugusto.mello01@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<h2 align="left">Tecnologias e ferramentas</h2>
 
 ###
 
@@ -49,11 +59,5 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/AugustoMello09/AugustoMello09/blob/output/github-contribution-grid-snake.svg)
 
 ###
