@@ -6,14 +6,6 @@
 
 ###
 
-<h2 align="left">Sobre min</h2>
-
-###
-
-<p align="left">Estou à procura de uma oportunidade como desenvolvedor backend onde eu possa mostrar meus conhecimentos em Java e Spring Boot. Tenho habilidades no desenvolvimento de APIs RESTful e na integração de soluções modernas com mensageria como RabbitMQ e Kafka, além de experiência em consumir API’s externas. </p>
-
-###
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AugustoMello09&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoMello09&layout=compact&langs_count=16&theme=codeSTACKr"/>
